@@ -16,7 +16,7 @@ const Hero = () => {
           OpenAI GPT-4
         </span>
       </h1>
-      <h2 className='desc'>Simplify your reading with Summrize, an opern-source article summarizer that transforms lengthy articles into clear and concise summaries.</h2>
+      <h2 className='desc'>Simplify your reading with summarize, an opern-source article summarizer that transforms lengthy articles into clear and concise summaries.</h2>
     </header>
   )
 }
